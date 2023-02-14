@@ -1,5 +1,4 @@
-# JMeterRTWS
-JMeter Regression Testing of Web Services
+# JMeterRTWS (JMeter Regression Testing of Web Services)
 
 Use NetBeans (enabled with Glassfish) to import and use the project.
 
