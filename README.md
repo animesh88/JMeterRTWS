@@ -1,5 +1,9 @@
-# JMeterRTWS
-JMeter Regression Testing of Web Services
+# Web Service Slicing
+# ServiceEvolutionAnalytics
+# Automated Web Service Change Management (AWSCM)
+# SubsetWSDL 
+# Regression Testing of Web Services using JMeter and SoapUI
+
 Use NetBeans (enabled with Glassfish) to import and use the project.
 
 Please cite or refer following research papers that used the BookService as one of the case study in the experimentation section.
