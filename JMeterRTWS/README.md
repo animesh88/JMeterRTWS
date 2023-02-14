@@ -2,16 +2,16 @@ Use NetBeans (enabled with Glassfish) to import and use the project.
 
 Please cite or refer following research papers that used the JMeterRTWS in the experimentation section.
 
-# ServiceEvolutionAnalytics
+# Service Evolution Analytics: Change and Evolution Mining of a Distributed System
 J2 Animesh Chaturvedi, Aruna Tiwari, Shubhangi Chaturvedi, and Dave Binkley “Service Evolution Analytics: Change and Evolution Mining of a Distributed System”, IEEE Transactions on Engineering Management. DOI: 10.1109/TEM.2020.2987641
 
-# Web Service Slicing
+# Web Service Slicing: Intra and Inter-Operational Analysis to Test Changes
 J1. Animesh Chaturvedi, and David Binkley. “Web Service Slicing: Intra and Inter-Operational Analysis to Test Changes”. IEEE Transactions on Services Computing (2018). IEEE Computer Society. DOI: 10.1109/TSC.2018.2821157
 
-# SubsetWSDL 
+# Subset WSDL to access Subset Service for Analysis
 C4. Animesh Chaturvedi, “Subset WSDL to access Subset Service for Analysis”, 6th IEEE International Conference on Cloud Computing Technology and Science (IEEE CloudCom), Singapore, Dec 2014, pp 688-691. IEEE Computer Society and IEEE Cloud Computing DOI: 10.1109/CloudCom.2014.149.
 
-# Automated Web Service Change Management (AWSCM)
+# Automated Web Service Change Management AWSCM - A Tool
 C3. Animesh Chaturvedi, “Automated Web Service Change Management AWSCM - A Tool” 6th IEEE International Conference on Cloud Computing Technology and Science (IEEE CloudCom), Singapore, Dec 2014, pp 715-718. IEEE Computer Society DOI: 10.1109/CloudCom.2014.144.
 
 # Regression Testing of Web Services using JMeter and SoapUI
