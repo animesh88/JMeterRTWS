@@ -1,6 +1,6 @@
 Use NetBeans (enabled with Glassfish) to import and use the project.
 
-Please cite or refer following research papers that used the BookService as one of the case study in the experimentation section.
+Please cite or refer following research papers that used the JMeterRTWS in the experimentation section.
 
 # ServiceEvolutionAnalytics
 J2 Animesh Chaturvedi, Aruna Tiwari, Shubhangi Chaturvedi, and Dave Binkley “Service Evolution Analytics: Change and Evolution Mining of a Distributed System”, IEEE Transactions on Engineering Management. DOI: 10.1109/TEM.2020.2987641
