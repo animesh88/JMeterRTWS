@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<games>
+  <game genre="rpg">XML Invaders</game>
+  <game genre="rpg">A Node in the XPath</game>
+  <game genre="rpg">XPath Racers</game>
+</games>

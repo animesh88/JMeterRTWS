@@ -1,2 +1,0 @@
-BuildingDifferenceWSDL.SAXTreeBuilder
-BuildingDifferenceWSDL.XMLTreeView
